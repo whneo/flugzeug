@@ -1,0 +1,7 @@
+#divId{
+    position: absolute;
+    top: 400px;
+    width: 202px;
+    height: 99px;
+    background-image: url(../Images/flugzeug.jpg);
+}
